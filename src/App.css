@@ -6,7 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.position{
+  margin-top:100px;
+  width:800px;
+  margin-left:250px;
+}
+.cancelation{
+  margin-left:200px;
+}
+.navigation{
+  color:rgb(83, 221, 210);
+  font-size: 40px;
+}
+.foot{
+  background-color:#282c34!important;
+  margin-top: 168px;
+  height:30px;
+}
+.copy{
+  color:white;
+  font-size: 12px;
+  text-decoration: underline;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
